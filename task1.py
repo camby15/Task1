@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-github_url = "https://github.com/your_username/your_repository/blob/main/your_file.py"
+github_url = "https://github.com/camby15/Task1/blob/main/task1.py"
 
 source_code_url = "https://github.com/camby15/Task1"
 
