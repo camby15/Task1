@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 github_url = "https://github.com/camby15/Task1"
 
-source_code_url = "https://github.com/camby15/Task1/blob/main/task1.py"
+source_code_url = "https://github.com/camby15/Task1/blob/main/app.py"
 
 @app.route('/get_info', methods=['GET'])
 def get_info():
